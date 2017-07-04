@@ -1,0 +1,36 @@
+h4 {
+  color: red;
+}
+th {
+    border: 1px solid black;
+}
+ td {
+ 	border: 1px solid black;	
+ }
+table {
+	left: 30px;
+	position:relative;
+}
+
+.m{
+	display: flex;
+    justify-content: center;
+    padding: 0 auto;
+}
+button {
+	width: 100px;
+	border-radius: 16px ;
+	background-color: lightgreen;
+	text-align: center;
+	border: 9px solid green;
+    margin  : 3px ;
+}
+button:hover {
+    background-color: #4CAF50;
+    color: white;
+}
+
+body {
+	background-color:#001f3f;
+	color: green;
+}
